@@ -8,9 +8,6 @@
 </a>
 
 
-## Related Project
-ExpressJs (Backend) (https://github.com/firmansyahfachmi/Backend-MusicStore.git)
-
 ## Introduction
 
 MusicStore is an apps for selling Music Instrument 
@@ -60,6 +57,4 @@ MusicStore is an apps for selling Music Instrument
 [`Download Now`](https://shorturl.at/ntABL)
   
    
-## License
-Mohammad Fachmi Firmansyah - 2019
 
